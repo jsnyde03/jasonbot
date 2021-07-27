@@ -429,6 +429,23 @@ SHOPS = {
         "currency": "$",
         "channels_id": [793509988927668334],
         "group_variants": True
+    },{
+        "domain": "kirbyscomicartshop.com",
+        "name": "kirbysart",
+        "long_name": "Kirby's Comic Art",
+        "logo": "https://cdn.shopify.com/s/files/1/0050/9991/3280/files/1_c85496b3-0683-4768-868b-665806be2265_450x.png?v=1609238580",
+        "currency": "£",
+        "channels_id": [868488920764149760],
+        "group_variants": False
+
+    },{
+        "domain": "mondoshop.com",
+        "name": "mondoshop",
+        "long_name": "Mondo",
+        "logo": "https://www.mondo.com",
+        "currency": "$",
+        "channels_id": [868497459167518750],
+        "group_variants": False
     }],
     "nonshopify": [{
         "url": "https://www.tfaw.com/catalogsearch/result/index/?prod_type=3&product_list_order=on_sale_date&q=star+wars&product_list_limit=128",
@@ -443,6 +460,13 @@ SHOPS = {
         "logo": "https://www.tfaw.com/static/version1608056150/frontend/TFAW/default/en_US/images/logo.png",
         "channels_id": [792924094290198549]
     },{
+         "url": "https://www.tfaw.com/catalogsearch/result/?q=tfaw+exclusive/",
+        "name": "tfaw",
+        "long_name": "Things From Another World",
+        "logo": "https://www.tfaw.com/static/version1608056150/frontend/TFAW/default/en_US/images/logo.png",
+        "channels_id": [792924094290198549]
+
+    },{ 
         "url": "https://forbiddenplanet.com/catalog/comics-and-graphic-novels/comics/?sort=recently-added&page=1",
         "name": "forbiddenplanet",
         "long_name": "Forbidden Planet",
@@ -491,14 +515,26 @@ SHOPS = {
         "name": "archonia",
         "long_name": "Archonia.com",
         "logo": "https://cdn.archonia.com/shop/test-home/misc/archonia-no-cats-transparant_short6.png",
-        "channels_id": [863793950837309490] 
-      
-       #url":"https://www.lego.com/en-us/categories/new-sets-and-products",
-       # "name": "lego",
-       # "long_name": "Lego",
-       # "logo": "https://www.lego.com/cdn/cs/set/assets/blt445eec351be85ac6/Lego-logo.jpg?format=jpg&quality=80&height=55&dpr=2",
-       # "channels_id": [793510290209112064],
-       # "custom_request": True
+        "channels_id": [863793950837309490]
+   },{
+        "url": "https://www.hallmark.com/popminded/?prefn0=theme&prefv0=Events#products",
+        "name": "hallmark",
+        "long_name": "Hallmark PopMinded",
+        "logo": "https://www.hallmark.com/on/demandware.static/-/Sites-HallmarkUS-Library/default/dw5c27acda/09-10-20-popminded-logo.svg",
+        "channels_id": [867790088545107978]
+   },{ 
+        "url": "https://www.sideshow.com/search?keywords=hot+toys#/sort:ss_days_since_release:asc",
+        "name": "sideshow",
+        "long_name": "Hot Toys New Releases",
+        "logo": "https://www.sideshow.com/images/ribbon-navbar-home.jpg",
+        "channels_id": [868317899775942696] 
+   },{
+       "url":"https://www.lego.com/en-us/categories/new-sets-and-products",
+        "name": "lego",
+        "long_name": "Lego",
+        "logo": "https://www.lego.com/cdn/cs/set/assets/blt445eec351be85ac6/Lego-logo.jpg?format=jpg&quality=80&height=55&dpr=2",
+        "channels_id": [793510290209112064],
+        "custom_request": True
    }],
     "restock": [{
         "name": "lego.com",
@@ -509,7 +545,20 @@ SHOPS = {
         "channels_id": [793510290209112064],
         "urls": [
             "https://www.lego.com/en-us/product/r2-d2-75308",
-            "https://www.lego.com/en-us/product/typewriter-21327"
+            "https://www.lego.com/en-us/product/typewriter-21327",
+            "https://www.lego.com/en-us/product/world-map-31203",
+            "https://www.lego.com/en-us/product/daily-bugle-76178",
+            "https://www.lego.com/en-us/product/lego-star-wars-advent-calendar-2021-75307",
+            "https://www.lego.com/en-us/product/republic-gunship-75309",
+            "https://www.lego.com/en-us/product/volkswagen-t2-camper-van-10279",
+            "https://www.lego.com/en-us/product/the-guardians-ship-76193",
+            "https://www.lego.com/en-us/product/the-bad-batch-attack-shuttle-75314",
+            "https://www.lego.com/en-us/product/boba-fett-s-starship-75312",
+            "https://www.lego.com/en-us/product/gingerbread-house-10267",
+            "https://www.lego.com/en-us/product/darth-vader-s-castle-75251",
+            "https://www.lego.com/en-us/product/diagon-alley-75978",
+            "https://www.lego.com/en-us/product/mos-eisley-cantina-75290"
+
         ]
     }],
 }

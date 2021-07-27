@@ -33,6 +33,8 @@ class RestockMonitor(shops_monitor.ShopsMonitor):
                 return "instock"
             elif availability_text == shop["backorder_string"]:
                 return "backorder"
+            elif availability_text == "Backorders":
+                return "backorder"
         return "outofstock"
 
     def db_product_status(self, url):

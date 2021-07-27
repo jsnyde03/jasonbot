@@ -74,8 +74,11 @@ class ShopifyMonitor(shops_monitor.ShopsMonitor):
     def gen_group_embed(self, shop, product, image):
         title = product["title"]
         price = self.get_variants_price(shop, product["variants"])
-        product_url = "https://{}/products/{}".format(shop["domain"], product["handle"])
-        shop_url = "https://{}/collections.all?sort_by=created-descending".format(shop["domain"])
+        if(shop["name"]) == "kirbysart":
+            product_url = "https://{}/collections.all?sort_by=created-descending".format(shop["domain"])
+        else:
+            product_url = "https://{}/products/{}".format(shop["domain"], product["handle"])
+            shop_url = "https://{}/collections.all?sort_by=created-descending".format(shop["domain"])
 
         embed = Embed(title=title, url=product_url, color=Colour(0x246100))
         embed.set_thumbnail(url=image)
@@ -122,6 +125,7 @@ class ShopifyMonitor(shops_monitor.ShopsMonitor):
         logging.info("Checking {}... ".format(shop["domain"]))
 
         headers = {'User-Agent': config.USER_AGENT}
+        
         url = "https://{}/products.json?limit=250".format(shop["domain"])
         if "http" in self.proxies:
            logging.info("PROXY: {}".format(self.proxies["http"]))

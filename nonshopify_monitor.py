@@ -35,6 +35,15 @@ class NonShopifyMonitor(shops_monitor.ShopsMonitor):
             embed.add_field(name="Availability", value=product["availability"], inline=False)
             embed.add_field(name="VIP", value=product["vip"], inline=False)
             embed.set_author(name=shop["long_name"], url=shop["url"], icon_url=shop["logo"])
+        elif(shop["name"] == "sideshow"):
+            product_hash = self.get_product_hash(shop, product)
+            if self.product_exists(product_hash):
+                return []
+            
+            embed = Embed(title=product["title"], url=product["url"], color=Colour(0x245100))
+            embed.set_image(url=product["image"])
+            embed.add_field(name="Price", value=product["price"], inline=False)
+            embed.set_author(name=shop["long_name"], url=shop["url"], icon_url=shop["logo"])
         else:
             product_hash = self.get_product_hash(shop, product)
             if self.product_exists(product_hash):
