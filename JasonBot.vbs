@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Users\stewe\Desktop\jasonbot.bat", 0, True
