@@ -1,7 +1,7 @@
 import os
 
 DATA_FOLDER = os.path.join(os.path.dirname(os.path.realpath(__file__)), "..", ".data")
-BOT_TOKEN = 'ODYwMzI5MDI3Mjk4MjYzMDUx.YN5p2A.nPR8SjkOjdiNDSuJemyEIAgWc3o'
+BOT_TOKEN = ''
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64'
 NO_IMAGE_URL = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/600px-No_image_available.svg.png"
 
@@ -522,19 +522,6 @@ SHOPS = {
         "long_name": "Hallmark PopMinded",
         "logo": "https://www.hallmark.com/on/demandware.static/-/Sites-HallmarkUS-Library/default/dw5c27acda/09-10-20-popminded-logo.svg",
         "channels_id": [867790088545107978]
-   },{ 
-        "url": "https://www.sideshow.com/search?keywords=hot+toys#/sort:ss_days_since_release:asc",
-        "name": "sideshow",
-        "long_name": "Hot Toys New Releases",
-        "logo": "https://www.sideshow.com/images/ribbon-navbar-home.jpg",
-        "channels_id": [868317899775942696] 
-   },{
-       "url":"https://www.lego.com/en-us/categories/new-sets-and-products",
-        "name": "lego",
-        "long_name": "Lego",
-        "logo": "https://www.lego.com/cdn/cs/set/assets/blt445eec351be85ac6/Lego-logo.jpg?format=jpg&quality=80&height=55&dpr=2",
-        "channels_id": [793510290209112064],
-        "custom_request": True
    }],
     "restock": [{
         "name": "lego.com",
