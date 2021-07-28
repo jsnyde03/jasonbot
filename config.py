@@ -1,7 +1,7 @@
 import os
 
 DATA_FOLDER = os.path.join(os.path.dirname(os.path.realpath(__file__)), "..", ".data")
-BOT_TOKEN = 'ODYwMzI5MDI3Mjk4MjYzMDUx.YN5p2A.k61S0AcVqgVo1i77Fwx6dc2wexo'
+BOT_TOKEN = ''
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64'
 NO_IMAGE_URL = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/No_image_available.svg/600px-No_image_available.svg.png"
 
