@@ -126,7 +126,7 @@ SHOPS = {
         "long_name": "Frankie's Comics",
         "logo": "https://cdn.shopify.com/s/files/1/1045/2402/t/4/assets/logo.png?v=8845134509068189876",
         "currency": "$",
-        "channels_id": [791705478907559947],
+        "channels_id": [715013060275863647],
         "group_variants": False
     },{
         "domain": "www.7ate9comics.com",
@@ -134,7 +134,7 @@ SHOPS = {
         "long_name": "7 Ate 9 Comics",
         "logo": "https://cdn.shopify.com/s/files/1/1496/3582/files/7ate9_logo_white_ANIMATED_1_3d1dae48-dc38-4b57-aa45-9bab96fb3004_250x@2x.gif?v=1563037952",
         "currency": "£",
-        "channels_id": [793506348272189491],
+        "channels_id": [859943911908704277],
         "group_variants": False
     },{
         "domain": "www.hive-comics.com",
@@ -142,7 +142,7 @@ SHOPS = {
         "long_name": "Hive Comics",
         "logo": "https://cdn.shopify.com/s/files/1/0343/7051/9084/files/hive_comics_540x.jpg?v=1584596772",
         "currency": "$",
-        "channels_id": [793509547230494772],
+        "channels_id": [861399572672806952],
         "group_variants": False
     },{
         "domain": "www.comicbooksurplus.com",
@@ -150,7 +150,7 @@ SHOPS = {
         "long_name": "Linebreakers",
         "logo": "https://cdn.shopify.com/s/files/1/0031/1099/4029/files/LINEBREAKERS_LOGO_180x.png?v=1598064169",
         "currency": "$",
-        "channels_id": [796083946965565450],
+        "channels_id": [861399572672806952],
         "group_variants": False
     },{ 
         "domain": "sanctumsanctorumcomics.com",
@@ -158,7 +158,7 @@ SHOPS = {
         "long_name": "Sanctum Sanctorum Comics",
         "logo": "https://cdn.shopify.com/s/files/1/1080/7600/files/Sanctum-Sanctorum-Eyeball-Logo-Condensed-Tranparent-Final_200x.png?v=1577305158",
         "currency": "$",
-        "channels_id": [791706117687476234],
+        "channels_id": [861401386613080094],
         "group_variants": False
     },{
         "domain": "www.stadiumcomics.com",
@@ -166,7 +166,7 @@ SHOPS = {
         "long_name": "Stadium Comics",
         "logo": "https://cdn.shopify.com/s/files/1/0227/7137/t/3/assets/logo.png?v=13301969214669996486",
         "currency": "$",
-        "channels_id": [796083654937411674],
+        "channels_id": [861409359555854346],
         "group_variants": True
     },{
         "domain": "stateofcomics.com",
@@ -174,7 +174,7 @@ SHOPS = {
         "long_name": "State Of Comics",
         "logo": "https://cdn.shopify.com/s/files/1/1796/6731/files/Web_Logo_120x@2x.jpg?v=1521392087",
         "currency": "$",
-        "channels_id": [796083776438272050],
+        "channels_id": [861405294857027635],
         "group_variants": False
     },{
         "domain": "izzyscomics.com",
@@ -182,7 +182,7 @@ SHOPS = {
         "long_name": "Izzys Comics",
         "logo": "https://cdn.shopify.com/s/files/1/0406/6990/5049/files/Izzy_Comics_Logo_Color_9bd49f31-aeb2-4808-89ef-cf9fb4949fe0_180x.png?v=1607288086",
         "currency": "$",
-        "channels_id": [796084072270004235],
+        "channels_id": [861412976711958532],
         "group_variants": False
     },{
         "domain": "bigtimecollectibles.com",
@@ -190,7 +190,7 @@ SHOPS = {
         "long_name": "Big Time Collectibles",
         "logo": "https://cdn.shopify.com/s/files/1/2659/3382/files/btc_540x.jpg?v=1601523600",
         "currency": "$",
-        "channels_id": [791706502087442442],
+        "channels_id": [861414117469061152],
         "group_variants": False
     },{
         "domain": "thecomicmint.com",
@@ -198,7 +198,7 @@ SHOPS = {
         "long_name": "The Comic Mint",
         "logo": "https://cdn.shopify.com/s/files/1/1570/4597/files/tcm_logo_225x@2x.png?v=1517036809",
         "currency": "$",
-        "channels_id": [791705605139595324],
+        "channels_id": [861420261114380308],
         "group_variants": False
     },{
         "domain": "www.comicselitecomics.com",
@@ -206,7 +206,7 @@ SHOPS = {
         "long_name": "Comics Elite",
         "logo": "https://cdn.shopify.com/s/files/1/1164/9704/files/8039816743733_6caf0770-2d11-43d4-bd83-91d20403f4ad_100x@2x.png?v=1509950346",
         "currency": "$",
-        "channels_id": [791706250249109504],
+        "channels_id": [861423442543509534],
         "group_variants": False
     },
     {
@@ -215,7 +215,7 @@ SHOPS = {
         "long_name": "Golden Apple Comics",
         "logo": "https://cdn.shopify.com/s/files/1/2059/7683/files/GABANNER-HEADER7_800x@2x.jpg?v=1584202158",
         "currency": "$",
-        "channels_id": [791705723407040523],
+        "channels_id": [861425136787914772],
         "group_variants": False
     },{
         "domain": "shop.reedpop.com",
@@ -223,7 +223,7 @@ SHOPS = {
         "long_name": "ReedPop",
         "logo": "https://cdn.shopify.com/s/files/1/0411/2256/2201/files/Screenshot_2020-06-15_at_11.06.37_400x@2x.png?v=1592215615",
         "currency": "$",
-        "channels_id": [793509898540941382],
+        "channels_id": [861425280538902549],
         "group_variants": True
     },{
         "domain": "www.sadlemoncomics.com",
@@ -231,7 +231,7 @@ SHOPS = {
         "long_name": "Sad Lemon Comics",
         "logo": "https://cdn.shopify.com/s/files/1/1496/3484/t/9/assets/logo.png?v=4042678280299833177",
         "currency": "£",
-        "channels_id": [793505824718192651],
+        "channels_id": [861430032605249566],
         "group_variants": False
     },{
         "domain": "scottscollectables-shop.co.uk",
@@ -239,7 +239,7 @@ SHOPS = {
         "long_name": "Scott's Collectables",
         "logo": "https://cdn.shopify.com/s/files/1/2585/0012/files/Scott_s_Logo_900x.jpg?v=1511688665",
         "currency": "£",
-        "channels_id": [793506085897633802],
+        "channels_id": [861430153321512960],
         "group_variants": False
     },{
         "domain": "www.slabbedheroes.com",
@@ -247,7 +247,7 @@ SHOPS = {
         "long_name": "Slabbed Heroes",
         "logo": "https://cdn.shopify.com/s/files/1/1832/0941/files/SHLogo_AbsCarn_blk_500x.jpg?v=1571533976",
         "currency": "$",
-        "channels_id": [793508621165002763],
+        "channels_id": [861448644691361842],
         "group_variants": False
     },{
         "domain": "www.slabcitycomics.com",
@@ -255,7 +255,7 @@ SHOPS = {
         "long_name": "Slab City Comics",
         "logo": "https://cdn.shopify.com/s/files/1/1671/7183/files/logo_shop_3cd74690-b271-4fad-9747-3caf18326959_50x@2x.png?v=1567214864",
         "currency": "£",
-        "channels_id": [793508496854351892],
+        "channels_id": [861448788937801758],
         "group_variants": False
     },{
         "domain": "trinity-comics.com",
@@ -263,7 +263,7 @@ SHOPS = {
         "long_name": "Trinity Comics",
         "logo": "https://cdn.shopify.com/s/files/1/1796/9501/files/trinity_horizontal_80e878db-ddae-4ed6-ab09-944f6116f846_200x@2x.jpg?v=1603140623",
         "currency": "$",
-        "channels_id": [793510092355797033],
+        "channels_id": [861622490702544897],
         "group_variants": False
     },{
         "domain": "unknowncomicbooks.com",
@@ -271,7 +271,7 @@ SHOPS = {
         "long_name": "Unknown Comic Books",
         "logo": "https://cdn.shopify.com/s/files/1/1556/9595/files/BOXLOGOUCBUNKNOWNONLY_f46a7dcd-ed73-4107-a661-dddee69ededc_240x@2x.png?v=1588701261",
         "currency": "$",
-        "channels_id": [791706014557798460],
+        "channels_id": [861622667739660298],
         "group_variants": False 
     },{
         "domain": "blackcapecomics.com",
@@ -279,7 +279,7 @@ SHOPS = {
         "long_name": "Black Cape Comics",
         "logo": "https://cdn.shopify.com/s/files/1/0325/8499/0851/files/colored_logo10_1080x.png?v=1583519149",
         "currency": "$",
-        "channels_id": [796083386635518002],
+        "channels_id": [861622814968250398],
         "group_variants": False
     },{
         "domain": "www.blackflagcomics.com",
@@ -287,7 +287,7 @@ SHOPS = {
         "long_name": "Black Flag Comics",
         "logo": "https://cdn.shopify.com/s/files/1/0299/4025/2807/files/Screen_Shot_2020-01-09_at_10.13.15_PM_540x.png?v=1578626040",
         "currency": "$",
-        "channels_id": [796083544858296341],
+        "channels_id": [861622953459712040],
         "group_variants": False
     },{
         "domain": "mutantbeavercomics.com",
@@ -295,7 +295,7 @@ SHOPS = {
         "long_name": "Mutant Beaver Comics",
         "logo": "https://cdn.shopify.com/s/files/1/2797/0812/files/MBC_25429_540x.jpg?v=1550177352",
         "currency": "C$",
-        "channels_id": [796084222447321169],
+        "channels_id": [861623134901370940],
         "group_variants": False
     },{
         "domain": "krscomics.com",
@@ -303,7 +303,7 @@ SHOPS = {
         "long_name": "KRS Comics",
         "logo": "https://cdn.shopify.com/s/files/1/0951/5836/files/93950674_295647041422195_583726724571725824_n_300x.png?v=1588113586",
         "currency": "$",
-        "channels_id": [796789438373429248],
+        "channels_id": [861623257970638848],
         "group_variants": False
     },{
         "domain": "impulsecreations.com",
@@ -311,7 +311,7 @@ SHOPS = {
         "long_name": "Impulse Creations",
         "logo": "https://cdn.shopify.com/s/files/1/0015/6873/5334/files/New_Logo_Small_white_300_111_450x@2x.jpg?v=1587866980",
         "currency": "$",
-        "channels_id": [796791862627008552],
+        "channels_id": [861626492017180722],
         "group_variants": False
     },{
         "domain": "the616comics.com",
@@ -319,7 +319,7 @@ SHOPS = {
         "long_name": "The 616 Comics",
         "logo": "https://cdn.shopify.com/s/files/1/0275/9858/5921/files/616_Logo_v5_540x.PNG?v=1591892468",
         "currency": "$",
-        "channels_id": [806593546588258375],
+        "channels_id": [861626584532385792],
         "group_variants": False
     },{
         "domain": "tylerkirkhamart.com",
@@ -327,7 +327,7 @@ SHOPS = {
         "long_name": "Tyler Kirkham",
         "logo": "https://cdn.shopify.com/s/files/1/0017/9663/6731/files/tyler_kirkham_smear_logonobackground_540x.png?v=1523561265",
         "currency": "$",
-        "channels_id": [807669379444899900],
+        "channels_id": [861626956911083520],
         "group_variants": False
     },{
         "domain": "comickingdomofcanada.com",
@@ -335,7 +335,7 @@ SHOPS = {
         "long_name": "Comic Kingdom Of Canada",
         "logo": "https://cdn.shopify.com/s/files/1/0012/0392/9182/files/IMG_8396_100x@2x.JPG?v=1530160618",
         "currency": "C$",
-        "channels_id": [806595168442515506],
+        "channels_id": [861626744745623552],
         "group_variants": False
     },{
         "domain": "www.mikemayhewstudio.com",
@@ -343,7 +343,7 @@ SHOPS = {
         "long_name": "Mike Mayhew",
         "logo": "https://cdn.shopify.com/s/files/1/0159/2514/9796/files/Mayhew_HiResSig_3_495x@2x.png?v=1547926426",
         "currency": "$",
-        "channels_id": [807670353002233896],
+        "channels_id": [861626882335047710],
         "group_variants": False
     },{
         "domain": "jamietyndall.net",
@@ -351,7 +351,7 @@ SHOPS = {
         "long_name": "Jamie Tyndall",
         "logo": "https://cdn.shopify.com/s/files/1/0987/7290/files/name_x40@2x.jpg?v=1572544953",
         "currency": "$",
-        "channels_id": [807671238155042916],
+        "channels_id": [861627216588570634],
         "group_variants": False
     },{
         "domain": "jscottcampbell.com",
@@ -359,7 +359,7 @@ SHOPS = {
         "long_name": "J. Scott Campbell",
         "logo": "https://cdn.shopify.com/s/files/1/0990/1714/files/Campbell-WebLogo-2018_779c32d6-955e-489f-95b1-d7977c55de05_600x.jpg?v=1539378941",
         "currency": "$",
-        "channels_id": [807672114630230057],
+        "channels_id": [861627322636566608],
         "group_variants": False 
     },{
         "domain": "greghornart.com",
@@ -367,7 +367,7 @@ SHOPS = {
         "long_name": "Greg Horn",
         "logo": "https://cdn.shopify.com/s/files/1/1775/7943/files/Greg_Horn_Art.new_logos_18.ENLARGED_720x.jpg?v=1521726376",
         "currency": "$",
-        "channels_id": [807676253313302539],
+        "channels_id": [861627485283024927],
         "group_variants": False
     },{
         "domain": "jeehyung.com",
@@ -375,7 +375,7 @@ SHOPS = {
         "long_name": "JeeHyung Lee",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS89grl7nQvWHvcY3Hch2x5O6ir7s3RjbSBhg&usqp=CAU",
         "currency": "$",
-        "channels_id": [807678029408763944],
+        "channels_id": [861627602955665408],
         "group_variants": False
     },{
         "domain": "www.yellowsnowcomics.com",
@@ -383,7 +383,7 @@ SHOPS = {
         "long_name": "Yellow Snow Comics",
         "logo": "https://cdn.shopify.com/s/files/1/0465/8669/1752/files/ysn_01_190x@2x.png?v=1602273425",
         "currency": "$",
-        "channels_id": [807679431245430794],
+        "channels_id": [861650494509809694],
         "group_variants": False
     },{
         "domain": "amorphousink.com",
@@ -391,7 +391,7 @@ SHOPS = {
         "long_name": "Amorphous Ink",
         "logo": "https://cdn.shopify.com/s/files/1/2099/2991/files/Amorphous_Ink_Logo_92922d9a-92ac-4203-b331-7af600e1bb2c_200x@2x.png?v=1517041103",
         "currency": "$",
-        "channels_id": [812671048616771644],
+        "channels_id": [861650593796980743],
         "group_variants": False
     },{
         "domain": "www.wantedcomix.com",
@@ -399,7 +399,7 @@ SHOPS = {
         "long_name": "Wanted Comix",
         "logo": "https://cdn.shopify.com/s/files/1/0537/5564/2021/files/wanted-comix-white_140x@2x.png?v=1613156568",
         "currency": "$",
-        "channels_id": [812753506326675566],
+        "channels_id": [861650619956592641],
         "group_variants": False
     },{
         "domain": "www.comicblend.com",
@@ -407,7 +407,7 @@ SHOPS = {
         "long_name": "Comicblend",
         "logo": "https://cdn.shopify.com/s/files/1/0556/5752/9535/files/comicblend-for-dark-bgs_9d7c1b49-ec6c-4b9d-82b9-ef5fa97a5997_300x300.png?v=1616634090",        
         "currency": "$",
-        "channels_id": [806581132468158474],
+        "channels_id": [863789615240314920],
         "group_variants": False
     },{
         "domain": "www.claytoncrain.com",
@@ -415,7 +415,7 @@ SHOPS = {
         "long_name": "Clayton Crain",
         "logo": "https://cdn.shopify.com/s/files/1/0541/9371/7437/files/Clayton_Crain_red_sm_400x.png?v=1620770711",
         "currency": "$",
-        "channels_id": [863834789656002560],
+        "channels_id": [863193950513004574],
         "group_variants": False
     },{
         "domain": "www.nocturnalrabbit.com",
@@ -423,7 +423,7 @@ SHOPS = {
         "long_name": "Nocturnal Rabbit",
         "logo": "https://cdn.shopify.com/s/files/1/0286/6600/3542/files/NRC_White_Shopify_15bb8d92-dc65-4cfb-ac65-85d5c35edb4f_150x150.jpg?v=1590251417",
         "currency": "$",
-        "channels_id": [863904023555080192],
+        "channels_id": [864266480995926046],
         "group_variants": False
     },{
         "domain": "www.scoutcomics.com",
@@ -431,15 +431,15 @@ SHOPS = {
         "long_name": "Scout Comics",
         "logo": "https://cdn.shopify.com/s/files/1/0265/2585/9919/files/Scout_HQ_Logo.png?v=1567879425",
         "currency": "$",
-        "channels_id": [793509988927668334],
-        "group_variants": True
+        "channels_id": [863583343496921129],
+        "group_variants": False
     },{
         "domain": "kirbyscomicartshop.com",
         "name": "kirbysart",
         "long_name": "Kirby's Comic Art",
         "logo": "https://cdn.shopify.com/s/files/1/0050/9991/3280/files/1_c85496b3-0683-4768-868b-665806be2265_450x.png?v=1609238580",
         "currency": "£",
-        "channels_id": [868488920764149760],
+        "channels_id": [863793950837309490],
         "group_variants": False
 
     },{
@@ -448,7 +448,7 @@ SHOPS = {
         "long_name": "Mondo",
         "logo": "https://www.mondo.com",
         "currency": "$",
-        "channels_id": [868497459167518750],
+        "channels_id": [864190122550231061],
         "group_variants": False
     }],
     "nonshopify": [{
