@@ -1,4 +1,5 @@
 import time
+import os
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -11,7 +12,7 @@ def find_products(response):
     edge_options.use_chromium = True
     edge_options.add_argument('headless')
     edge_options.add_argument('gpu-disabled')
-    browser = Edge(executable_path='C:/Users/stewe/Desktop/SteweyBot/edgedriver_win64/msedgedriver.exe', options=edge_options)
+    browser = Edge(executable_path='\home\jasonbot\JasonBot\shops\edgedriver_win64\msedgedriver.exe', options=edge_options)
     url = "https://www.sideshow.com/search?keywords=hot+toys#/sort:ss_days_since_release:asc/filter:ss_availability:Pre-Release/filter:ss_availability:Available$2520Now"
     browser.get(url)
     time.sleep(5)
